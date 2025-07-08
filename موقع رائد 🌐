@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>أبو كيان الجنيد - برمجة وتصميم</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f4f8;
+      color: #222;
+      direction: rtl;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #2c3e50;
+      text-align: center;
+    }
+    .section {
+      margin-bottom: 30px;
+      background: #fff;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    a.whatsapp {
+      display: block;
+      text-align: center;
+      background-color: #25D366;
+      color: white;
+      padding: 12px;
+      font-size: 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>أبو كيان الجنيد - برمجة وتصميم</h1>
 
+  <div class="section">
+    <h2>💻 حل مشاكل الكمبيوتر</h2>
+    <p>نقدم حلول لجميع أعطال الكمبيوتر، سواء كانت برمجية أو عتادية، بالإضافة إلى صيانة وتنظيف الجهاز.</p>
+  </div>
+
+  <div class="section">
+    <h2>📱 مشاكل الجوالات</h2>
+    <p>حل مشاكل نظام أندرويد وiOS، إعادة ضبط المصنع، وإزالة الفيروسات وتحسين الأداء.</p>
+  </div>
+
+  <div class="section">
+    <h2>👨‍💻 برمجة واستشارات</h2>
+    <p>خدمات برمجة مواقع وتطبيقات حسب الطلب، بالإضافة لاستشارات تقنية لأي مشروع.</p>
+  </div>
+
+  <div class="section">
+    <h2>🛠️ أعطال</h2>
+    <p>تشخيص الأعطال التقنية سواء في الشبكات أو الأجهزة أو البرامج.</p>
+  </div>
+
+  <div class="section">
+    <h2>🌐 تصميم مواقع</h2>
+    <p>تصميم مواقع بسيطة واحترافية للأفراد والشركات باستخدام HTML وCSS.</p>
+  </div>
+
+  <a class="whatsapp" href="https://wa.me/967775358148" target="_blank">📱 تواصل على واتساب: 00967775358148</a>
+</body>
+</html>
